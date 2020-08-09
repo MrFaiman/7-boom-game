@@ -1,2 +1,2 @@
 # 7-boom-game
-7 boon game
+7 boom game
